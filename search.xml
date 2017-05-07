@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[博客搭建]]></title>
+      <url>/2017/05/07/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
+      <content type="html"><![CDATA[<p>基于hexo搭建blog<br>    下载安装nodejs和git(for window)<br>        1.1.nodejs安装<br>            官网下载地址：<a href="https://nodejs.org/en/" target="_blank" rel="external">https://nodejs.org/en/</a> 下载v* LTS Recommended For Most Users<br>            以管理员打开cmd命令窗口，执行命令<br>            npm install -g express<br>            npm install -g express-generator<br>            node -v<br>            npm -v<br>            安装hexo<br>            npm install -g cnpm –registry=<a href="https://registry.npm.taobao.org" target="_blank" rel="external">https://registry.npm.taobao.org</a><br>            cnpm install -g hexo-cli<br>        1.2.git安装<br>            下载git<br>            在D盘新建blog文件夹，这个文件夹就是博客的根目录，打开blog空白处右击选择git bash here执行以下命令。首先对blog文件夹进行hexo初始化<br>            hexo init<br>            npm install<br>            hexo g<br>            hexo s<br>            输入<a href="http://localhost:4000/，出现hello" target="_blank" rel="external">http://localhost:4000/，出现hello</a> world 成功！<br>        1.3.下载next主题<br>            在git bash客户端的窗口右键顶端边框，点击“属性“ 然后进行点击选项的菜单，勾选上编辑选项的“快速编辑”，就可以复制粘贴了！<br>    根据自己的个性，可以自己捣鼓站点配置文件_config.yml和主题配置文件_config.yml</p>
+]]></content>
+      
+        <categories>
+            
+            <category> hexo </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> nodejs </tag>
+            
+            <tag> hexo </tag>
+            
+            <tag> NexT </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+</search>
